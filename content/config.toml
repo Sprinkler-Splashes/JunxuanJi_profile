@@ -1,14 +1,14 @@
 [site]
 title = "Junxuan Ji"
 description = "Undergrad student at Tsinghua University"
-favicon = "/favicon.svg"
+favicon = "/JunxuanJi_profile/favicon.svg"
 last_updated = "November 8, 2026"
 
 [author]
 name = "Junxuan Ji"
 title = "Undergrad Student"
 institution = "Tsinghua University"
-avatar = "/bio.jpg"
+avatar = "/JunxuanJi_profile/bio.jpg"
 
 [social]
 # Contact information (leave blank or delete to hide)
