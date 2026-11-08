@@ -1,26 +1,16 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
-
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
-
-## Experience
-
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+**Tsinghua University**, BS in Engineering, *2025 - Present*
+- Major: Artificial Intelligence (Wuqiong College)
+- GPA: 3.7/4.0, ranked top 30%
+- Courses: Machine Learning, Calculus, Linear Algebra, Probability Theory, Statistical Inferences, Data Structure and Algorithm, Object-Oriented Programming
 
 ## Skills
 
 - **Programming:** Python, C++, MATLAB, LaTeX
 - **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+- **Languages:** Chinese (Native), English (Fluent, IELTS 7.5)
 
 ## Awards & Honors
 
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+- **To be discovered:D** - Myself (*202?*)
