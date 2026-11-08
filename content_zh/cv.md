@@ -6,9 +6,11 @@
 
 ## 技能
 
-- **编程：** Python, C++, MATLAB, LaTeX
-- **数据分析：** Pandas, NumPy, SciPy
-- **语言：** 中文（母语）, 英文（流利，雅思总分7.5）
+- **编程开发：** Python 脚本编写与原型验证；C++ 课程项目与算法实现；MATLAB 数值计算。
+- **数理分析：** 使用 NumPy、Pandas 和 SciPy 进行数据处理与科学计算，并通过 Matplotlib 绘制可视化结果。
+- **机器学习：** 使用 PyTorch 开展深度学习实验，借助 scikit-learn 建立传统机器学习基线，并通过 Jupyter 进行交互式分析。
+- **开发工具：** Linux 开发环境；Git/GitHub 版本管理；Docker 环境配置；LaTeX 技术文档排版。
+- **语言能力：** 中文（母语）；英语（流利，雅思总分 7.5）。
 
 ## 奖项与荣誉
 
