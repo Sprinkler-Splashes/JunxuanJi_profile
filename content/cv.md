@@ -15,4 +15,4 @@
 
 ## Awards & Honors
 
-- **To be discovered:D** - Myself (*202?*)
+- **Wuqiong Scholarship**, Wuqiong College, Tsinghua University (2026)
